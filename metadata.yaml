@@ -1,0 +1,37 @@
+_repo: Charles-Dickens-Children-Stories_37121
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dickens, Charles
+    aliases:
+    - Dickens, Charles John Huffam
+    - Boz
+    birthdate: 1812
+    deathdate: 1870
+    gutenberg_agent_id: '37'
+    url: http://www.gutenberg.org/2009/agents/37
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Dickens
+description: ''
+gutenberg_issued: '2011-08-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37121'
+  lccn: 00006382
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Dickens, Charles, 1812-1870 -- Adaptations'
+- !lcsh 'Children''s stories, English'
+- !lcc 'PZ'
+- !lcsh 'Children -- Juvenile fiction'
+- !lcc 'PR'
+tableOfContents: Trotty Veck and his daughter Meg -- Tiny Tim -- Little Dombey --
+  The runaway couple -- Poor Jo! -- The little Kenwigs -- Little Dorrit -- The blind
+  toy-maker -- Little Nell -- Little David Copperfield -- Jenny Wren -- Pip's adventure.
+title: Charles Dickens' Children Stories
+url: http://www.gutenberg.org/ebooks/37121
